@@ -8,7 +8,7 @@
 # Site Settings
 theme                    : jekyll-theme-slate
 locale                   : "en-UK"
-title                    : "Stefan Endres (AMIChemE, BEng (Hons) Chemical Engineering)"
+title                    : "Stefan Endres"
 title_separator          : "-"
 name                     : &name "Stefan Endres"
 description              : &description "Postgraduate student in Chemical Engineering at the University of Pretoria. Current research interests in global optimisation, chemical phase equilibria and computational homology."
