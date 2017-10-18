@@ -44,8 +44,6 @@ Employment History
     * CPB 410 Process Control (2016s1)
         * Writing and coding of semester projects, aiding tutorial sessions. ref. [Mr. Carl Sandrock](mailto:Carl.Sandrock@up.ac.za)
 
-  include running weekly tutorial sessions twice a week, writing and coding of projects that augmented the third-year thermodynamics and process dynamics courses as well as the fourth year control engineering course.
-
 * Sappi Ltd., Sappi Technology Centre, Innovation Hub (November 2014 to February 2015)
     * Modelling, simulation (written in Python) and parameter optimization of novel non-linear reaction-diffusion models for applications in kraft pulping, design and implementations of lab experiments with pilot reactors and analysis of results used in the parameter optimization.
         * Direct supervisor: Dr. Ron Braunstein [Ron.Braunstein@sappi.com](Ron.Braunstein@sappi.com)
@@ -53,7 +51,7 @@ Employment History
 * ABYX Chemical Manufacturing (November 2011 to January 2012)
     *  Duties included work on pneumatic circuitry and solar powered heat exchangers.
         * Supervisor: Wendel Krook [smile@abyx.co.za](smile@abyx.co.za)
-        
+
 Skills
 ======
 
