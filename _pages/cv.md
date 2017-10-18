@@ -33,33 +33,6 @@ Education
     * Final year design project:
         * ”Biodiesel Production from Cultivation of Chlorella Sp.”
 
-Skills
-======
-
-### Programming, Scientific and Engineering Software and CAD
-
-* Python
-    * numpy, scipy, pandas
-    * sympy and Sage
-* MATLAB/Octave
-* Simulink
-* OpenModelica
-* AspenPlus
-* SolidWorks
-
-### Practical
-
-* Technical training at Tshwane South College (Pretoria West Campus, 2010).
-        * Welding · Machining · Soldering · Turning · Panel Wiring · Electrical Motors · Fitting
-
-#### Operating systems and Typesetting
-* Linux (Arch, Debian)
-* LaTeX
-*
-* Windows, MS Office/OpenOffice
-Employment History
-
-
 Employment History
 ======
 * University of Pretoria, Department of Chemical Engineering (2015 to present)
@@ -80,6 +53,33 @@ Employment History
 * ABYX Chemical Manufacturing (November 2011 to January 2012)
     *  Duties included work on pneumatic circuitry and solar powered heat exchangers.
         * Supervisor: Wendel Krook [smile@abyx.co.za](smile@abyx.co.za)
+        
+Skills
+======
+
+### Programming, Scientific and Engineering Software and CAD
+
+* Python
+    * numpy, scipy, pandas
+    * sympy and Sage
+* MATLAB/Octave
+* Simulink
+* OpenModelica
+* AspenPlus
+* SolidWorks
+
+### Practical
+
+* Technical training at Tshwane South College (Pretoria West Campus, 2010).
+        * Welding · Machining · Soldering · Turning · Panel Wiring · Electrical Motors · Fitting
+
+### Operating systems and Typesetting
+* Linux (Arch, Debian)
+* LaTeX
+* LibreOffice
+* Windows, MS Office/OpenOffice
+Employment History
+
 
   
 Volunteer Work
