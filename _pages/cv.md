@@ -35,8 +35,10 @@ Education
 
 Skills
 ======
+
 Programming, Scientific and Engineering Software and CAD
 -------------
+
 * Python
     * numpy, scipy, pandas
     * sympy and Sage
@@ -48,6 +50,7 @@ Programming, Scientific and Engineering Software and CAD
 
 Practical
 -------------
+
 * Technical training at Tshwane South College (Pretoria West Campus, 2010).
         * Welding · Machining · Soldering · Turning · Panel Wiring · Electrical Motors · Fitting
 
