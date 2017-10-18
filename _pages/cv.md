@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Eng. Chemical Engineering, University of Pretoria, 2017 (expected)
-    * Thesis title: "A Simplicial Homology Algorithm for Global optimisation"
+    * Thesis title: "A Simplicial Homology Algorithm for Lipschitz optimisation"
     * Supervisors:
         * Prof. Walter Focke ([Walter.Focke@up.ac.za](mailto:Walter.Focke@up.ac.za))
         * Mr. Carl Sandrock ([Carl.Sandrock@up.ac.za](mailto:Carl.Sandrock@up.ac.za))

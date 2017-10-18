@@ -12,14 +12,17 @@ main:
   - title: "shgo"
     url: /shgo/
 
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "projects"
+#    url: /projects/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "cv"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
