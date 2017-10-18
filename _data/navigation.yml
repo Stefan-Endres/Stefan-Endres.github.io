@@ -23,6 +23,9 @@ main:
     
   - title: "cv"
     url: /cv/
+
+  - title: "github"
+    url: "https://github.com/Stefan-Endres/"
     
 #  - title: "Guide"
 #    url: /markdown/
