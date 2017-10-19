@@ -12,6 +12,8 @@ Homepage for Stefan Endres.
 
 Lorem ipsum. #TODO
 
+Eq. ex $f(x) = x^2$
+
 \begin{eqnarray}
   \min_x && f(x), \\\\\\
    \text{subject to } && c_E(x) = 0,\\\\\\
