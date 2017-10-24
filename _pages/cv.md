@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Eng. Chemical Engineering, University of Pretoria, 2017 (expected)
-    * Thesis title: "A Simplicial Homology Algorithm for Lipschitz optimisation"
+    * Thesis title: "A Simplicial Homology Algorithm for Lipschitz Optimisation"
     * Supervisors:
         * Prof. Walter Focke ([Walter.Focke@up.ac.za](mailto:Walter.Focke@up.ac.za))
         * Mr. Carl Sandrock ([Carl.Sandrock@up.ac.za](mailto:Carl.Sandrock@up.ac.za))
@@ -22,7 +22,7 @@ Education
 
 * B.Eng. Chemical Engineering, University of Pretoria, 2014
     * Final year specialization in Chemical Thermodynamics
-        * Project title: ”Vapour Liquid Equilibrium Prediction using the Van der Waals EoS-GR DWPM Mixing Rule Models.”
+        * Project title: ”Vapour Liquid Equilibrium Prediction using the Van der Waals EoS-GR DWPM Mixing Rule Models”
             * Supervisors:
                 * Prof. Walter Focke ([Walter.Focke@up.ac.za](mailto:Walter.Focke@up.ac.za))
                 * Mr. Carl Sandrock ([Carl.Sandrock@up.ac.za](mailto:Carl.Sandrock@up.ac.za))
@@ -45,7 +45,7 @@ Employment History
         * Writing and coding of semester projects, aiding tutorial sessions. ref. [Mr. Carl Sandrock](mailto:Carl.Sandrock@up.ac.za)
 
 * Sappi Ltd., Sappi Technology Centre, Innovation Hub (November 2014 to February 2015)
-    * Modelling, simulation (written in Python) and parameter optimization of novel non-linear reaction-diffusion models for applications in kraft pulping, design and implementations of lab experiments with pilot reactors and analysis of results used in the parameter optimization.
+    * Modelling, simulation (written in Python) and parameter optimisation of novel non-linear reaction-diffusion models for applications in kraft pulping, design and implementations of lab experiments with pilot reactors and analysis of results used in the parameter optimisation.
         * Direct supervisor: Dr. Ron Braunstein [Ron.Braunstein@sappi.com](Ron.Braunstein@sappi.com)
 
 * ABYX Chemical Manufacturing (November 2011 to January 2012)
@@ -83,5 +83,5 @@ Employment History
 Volunteer Work
 ======
 * [Husky Romi Wolf Sanctuary](http://huskyromi.co.za/wp/)
-    * HuskyRomi is a non-profit organization providing a safe haven for abandoned and abused huskies and wolves in South Africa. Volunteer work included the construction of small scale damns for the sanctuary enclosures.
+    * HuskyRomi is a non-profit organisation providing a safe haven for abandoned and abused huskies and wolves in South Africa. Volunteer work included the construction of small scale damns for the sanctuary enclosures.
 
