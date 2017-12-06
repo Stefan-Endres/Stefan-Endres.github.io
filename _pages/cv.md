@@ -70,7 +70,7 @@ Open Source Projects and Competitions
     * Designed the full thermodynamic cycles which powered the air bearings by compressing vacuum air and performed FEM heat transfer analysis of the hyperloop pod using ANSYS.
 * DWPM thermodynamic software (2014-2015)
     * Phase seperation calculation algorithms primarily using the DWPM mixture rule.
-  * Project website: https://github.com/Stefan-Endres/DWPM-Mixture-Model](https://github.com/Stefan-Endres/DWPM-Mixture-Model)
+  * Project website: [https://github.com/Stefan-Endres/DWPM-Mixture-Model](https://github.com/Stefan-Endres/DWPM-Mixture-Model)
     
 Skills
 ======
