@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Eng. Chemical Engineering, University of Pretoria, 2017 (expected)
-    * Thesis title: "A Simplicial Homology Algorithm for Lipschitz Optimisation"
+    * Thesis title: "A Simplicial Homology Algorithm for Lipschitz Optimisation".
     * Supervisors:
         * Prof. Walter Focke ([Walter.Focke@up.ac.za](mailto:Walter.Focke@up.ac.za))
         * Mr. Carl Sandrock ([Carl.Sandrock@up.ac.za](mailto:Carl.Sandrock@up.ac.za))
@@ -28,7 +28,7 @@ Education
                 * Mr. Carl Sandrock ([Carl.Sandrock@up.ac.za](mailto:Carl.Sandrock@up.ac.za))
 
     * Research projects:
-        * ”Model of a Platinum Group Metal Dissolution Reactor.”
+        * ”Model of a Platinum Group Metal Dissolution Reactor”
             * Supervisor: Mr. Carl Sandrock ([Carl.Sandrock@up.ac.za](mailto:Carl.Sandrock@up.ac.za))
     * Final year design project:
         * ”Biodiesel Production from Cultivation of Chlorella Sp.”
@@ -36,7 +36,8 @@ Education
 Employment History
 ======
 * University of Pretoria, Department of Chemical Engineering (2015 to present)
-  * Teaching assistantships that augmented the following courses
+  * Postgraduate researcher.
+  * Teaching assistantships that augmented the following courses:
     * CIR 310 Chemical Thermodynamics (2015s1, 2017s1):
         * Supplementary lectures, writing and coding of semester projects, leading tutorial sessions. ref. [Prof. Walter Focke](mailto:Walter.Focke@up.ac.za)
     * CPN 321 Process Dynamics (2015s2)
@@ -52,6 +53,22 @@ Employment History
     *  Duties included work on pneumatic circuitry and solar powered heat exchangers.
         * Supervisor: Wendel Krook [smile@abyx.co.za](smile@abyx.co.za)
 
+Open Source Projects and Competitions
+======
+* Simplicial Homology Global Optimization (2016-present)
+    * A new global optimization algorithm specialized in solving, efficient local minima mapping and characterization of black and grey box objective functions by utilizing techniques from integral homology theory.
+    * Project website: https://stefan-endres.github.io/shgo/
+    * Written for the [SciPy project](https://www.scipy.org/)
+(2015)
+* hyperct (2017-present)
+    * Library for low memory mesh grids, hypercube triangulations and sub-triangulations.
+    * Project website: https://github.com/Stefan-Endres/hyperct
+* Topographical global optimization (2016)
+    * An open source Python implementation of the iterative topographical global optimization method.
+    * Project website: https://github.com/Stefan-Endres/tgo
+* Sci-X (team member), SpaceX Hyperloop Pod Competition Finalist (2015-2016)
+    * Designed the full thermodynamic cycles which powered the air bearings by compressing vacuum air and performed FEM heat transfer analysis of the hyperloop pod using ANSYS.
+    
 Skills
 ======
 
@@ -77,8 +94,6 @@ Skills
 * LibreOffice
 * Windows, MS Office/OpenOffice
 Employment History
-
-
   
 Volunteer Work
 ======
