@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 3px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -43,10 +43,13 @@
 
 .masthead__menu-item {
   display: block;
+  color: $header-background;
+  background-color: $header-background;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
+    padding-left: 2em;
     padding-right: 2em;
     font-weight: 700;
   }

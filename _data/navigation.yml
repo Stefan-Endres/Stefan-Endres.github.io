@@ -1,10 +1,10 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "publications"
+    url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/
+  - title: "talks"
+    url: /talks/
 
   #- title: "Teaching"
   #  url: /teaching/
@@ -12,14 +12,17 @@ main:
   - title: "shgo"
     url: /shgo/
 
+  - title: "shgotest"
+    url: /shgotest/
+
   - title: "tgo"
     url: /tgo/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-#  - title: "projects"
-#    url: /projects/
+  - title: "projects"
+    url: /projects/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
@@ -32,3 +35,68 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+
+
+projshgo:
+  - title: "Table of contents"
+    url: /shgotest/#table-of-contents
+
+  - title: "Introduction"
+    url: /shgotest/#introduction
+    children:
+      - title: "Global and derivative free optimisation"
+        url: /shgotest/#global-and-derivative-free-optimisation
+      - title: "Simplicial homology global optimisation theory"
+        url: /shgotest/#simplicial-homology-global-optimisation-theory
+      - title: "Summary of shgo features"
+        url: /shgotest/#summary-of-shgo-features
+
+  - title: "Performance summary"
+    url: /shgotest/#performance-summary
+    children:
+      - title: "Open-source black-box algorithms"
+        url: /shgotest/#open-source-black-box-algorithms
+      - title: "Recently published black-box algorithms"
+        url: /shgotest/#recently-published-black-box-algorithms
+
+  - title: Installation
+    url: /shgotest/#installation
+
+  - title: Examples
+    url: /shgotest/#examples
+    children:
+      - title: "Unimodal function: Rosenbrock"
+        url: /shgotest/#unimodal-function-rosenbrock
+      #- title: "Unimodal function: bounded variables"
+      #  url: /shgotest/#bounded-variables
+      #- title: "Unimodal function: unbounded variables"
+      #  url: /shgotest/#unbounded-variables
+      - title: "Multimodal function: Eggholder"
+        url: /shgotest/#multimodal-function-eggholder
+      #- title: "Multimodal function: mapping local minima"
+      #  url: /shgotest/#mapping-local-minima
+      #- title: "Multimodal function: improving results"
+      #  url: /shgotest/#improving-results
+      - title: "Non-linear constraints: cattle feed problem (HS73)"
+        url: /shgotest/#non-linear-constraints-cattle-feed-problem-hs73
+
+  - title: "Advanced features"
+    url: /shgotest/#advanced-features
+    children:
+      - title: "Model structure and performance"
+        url: /shgotest/#model-structure-and-performance
+      - title: "Stopping criteria"
+        url: /shgotest/#stopping-criteria
+      - title: "Parallelization"
+        url: /shgotest/#parallelization
+
+
+  - title: "Code parameters"
+    url: /shgotest/#code-parameters
+
+  - title: Returns
+    url: /shgotest/#returns
+
+  - title: References
+    url: /shgotest/#references
+

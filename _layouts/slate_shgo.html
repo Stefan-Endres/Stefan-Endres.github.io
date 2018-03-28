@@ -1,7 +1,39 @@
+---
+layout: default_shgo
+sidebar:
+  nav: "projshgo"
+---
+
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-
   <head>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script>
+            MathJax.Hub.Config({
+                config: ["MMLorHTML.js"],
+                extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
+                jax: ["input/TeX"],
+                tex2jax: {
+                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                    processEscapes: false
+                },
+                TeX: {
+                    TagSide: "right",
+                    TagIndent: ".8em",
+                    MultLineWidth: "85%",
+                    equationNumbers: {
+                       autoNumber: "AMS",
+                    },
+                    unicode: {
+                       fonts: "STIXGeneral,'Arial Unicode MS'"
+                    }
+                },
+                showProcessingMessages: false
+            });
+    </script>
+
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
@@ -14,25 +46,11 @@
 
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
-        </header>
-    </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+      {% include sidebar.html %}
+
       <section id="main_content" class="inner">
         {{ content }}
       </section>
@@ -44,7 +62,6 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
 

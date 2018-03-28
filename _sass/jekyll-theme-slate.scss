@@ -43,10 +43,12 @@ table {
 Theme Styles
 *******************************************************************************/
 
+$lantian-blue               : #465977;
+
 body {
   box-sizing: border-box;
   color:#373737;
-  background: #212121;
+  background: $lantian-blue;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -114,6 +116,7 @@ a {
 }
 
 a:hover, a:focus {
+  color: #e88a2f;
   text-decoration: underline;
   font-weight:bold;
 }
@@ -238,7 +241,7 @@ table {
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 10px;
-  background: #373737;
+  background: $lantian-blue;
   color: #fff;
  }
 
@@ -262,7 +265,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 800px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -289,6 +292,23 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
+
+  $lantian_blue: #465977;
+  $lantian_blue:  #373737;
+  $lantian_blue: #e88a2f;
+  $lantian_blue: mix(#465977, #FFF, 70%);
+  $light_color_grad: #e88a2f;
+  $light_color_grad: #373737;
+  $light_color_grad: #465977;
+  background: -moz-linear-gradient(top, $lantian_blue, $light_color_grad);
+  background: -webkit-linear-gradient(top, $lantian_blue, $light_color_grad);
+  background: -ms-linear-gradient(top, $lantian_blue, $light_color_grad);
+  background: -o-linear-gradient(top, $lantian_blue, $light_color_grad);
+  background: linear-gradient(top, $lantian_blue, $light_color_grad);
+
+  &:hover {
+  color: #e88a2f;
+}
 }
 
 #header_wrap .inner {
@@ -361,7 +381,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: $lantian-blue;
 }
 
 

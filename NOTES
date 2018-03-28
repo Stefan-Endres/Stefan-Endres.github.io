@@ -1,0 +1,29 @@
+# To start a local server first change the url in line 14 of _config.yml to 
+
+url                      : http://127.0.0.1:4000 
+
+# Now start the local liveserver with
+
+bundle exec jekyll liveserve
+
+# If this fails try
+
+bundle exec jekyll serve
+
+# REMEMBER TO CHANGE THE URL BACK BEFORE COMMITS:
+url                      : https://stefan-endres.github.io 
+
+
+
+To modify the colours modify the _sass/_variable.scss file
+
+
+The layouts for many pages are defined in the _config.yml file: ex.
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
