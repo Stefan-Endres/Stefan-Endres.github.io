@@ -68,8 +68,8 @@ Open Source Projects and Competitions
 * Sci-X (team member), SpaceX Hyperloop Pod Competition Finalist (2015-2016)
     * Designed the full thermodynamic cycles which powered the air bearings by compressing vacuum air and performed FEM heat transfer analysis of the hyperloop pod using ANSYS.
 * DWPM thermodynamic software (2014-2015)
-    * Phase seperation calculation algorithms primarily using the DWPM mixture rule.
-  * Project website: https://github.com/Stefan-Endres/DWPM-Mixture-Model](https://github.com/Stefan-Endres/DWPM-Mixture-Model)
+    * Phase separation calculation algorithms primarily using the DWPM mixture rule.
+  * Project website: [https://github.com/Stefan-Endres/DWPM-Mixture-Model](https://github.com/Stefan-Endres/DWPM-Mixture-Model)
     
 Skills
 ======
