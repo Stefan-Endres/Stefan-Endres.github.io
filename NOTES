@@ -1,4 +1,4 @@
-# To start a local server first change the url in line 14 of _config.yml to 
+# To start a local server first change the url in line 14 of _config.yml AND _config.dev.yml to 
 
 url                      : http://127.0.0.1:4000 
 

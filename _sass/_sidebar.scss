@@ -26,15 +26,33 @@
 
   &.sticky {
     overflow-y: auto;
+
+    /*
+    @if overflow-y {
+    height: calc(20vh);
+    }
+     */
     /* calculate height of nav list */
 /*
     height: calc(
             100vh - 90px - 2em
     ); // viewport height - approx. masthead height - main content top margin*/
 
-    height: calc(100vh);
+    height: calc(10vh);
+    @include breakpoint($large) {
+      height: calc(100vh);
+    }
   }
 
+/* Example of wrapping button
+    button {
+    margin-bottom: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+*/
 
   @include breakpoint($x-large) {
     padding-right: 0;
