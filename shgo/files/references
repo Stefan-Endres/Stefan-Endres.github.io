@@ -1,0 +1,49 @@
+[[1]](#1-endres-sc--sandrock-c-focke-ww-2018-a-simplicial-homology-algorithm-for-lipschitz-optimisation-journal-of-global-optimization)
+
+[[2]](#2-endres-sc-2017-a-simplicial-homology-algorithm-for-lipschitz-optimisation)
+
+[[3]](#3-sobol-im-1967-the-distribution-of-points-in-a-cube-and-the-approximate-evaluation-of-integrals-ussr-comput-math-math-phys-7-86-112)
+
+[[4]](#4-joe-sw-and-kuo-fy-2008-constructing-sobol-sequences-with-better-two-dimensional-projections-siam-j-sci-comput-30-2635-2654)
+
+[[5]](#5-li-z-and-scheraga-h-a-1987-monte-carlo-minimization-approach-to-the-multipleminima-problem-in-protein-folding-proceedings-of-the-national-academy-of-sciences-84-19-66116615)
+
+[[6]](#6-wales-d-j-and-doye-j-p-1997-global-optimization-by-basin-hopping-and-the-lowest-energy-structures-of-lennard-jones-clusters-containing-up-to-110-atoms-the-journal-of-physical-chemistry-a-101-28-51115116)
+
+[[7]](#7-storn-r-and-price-k-1997-differential-evolution--a-simple-and-efficient-heuristic-for-global-optimization-over-continuous-spaces-journal-of-global-optimization-11-4-341359)
+
+[[8]](#8-rios-l-m-and-sahinidis-n-v-jul-2013-derivative-free-optimization-a-review-of-algorithms-and-comparison-of-software-implementations-journal-of-global-optimization-56-3-12471293)
+
+[[9]](#9-jones-d-r-perttunen-c-d-and-stuckman-b-e-oct-1993-lipschitzian-optimization-without-the-lipschitz-constant-journal-of-optimization-theory-and-applications79-1-157181)
+
+[[10]](#10-paulavičius-r-and-žilinskas-j-may-2014b-simplicial-lipschitz-optimization-without-the-lipschitz-constant-journal-of-global-optimization-59-1-2340)
+
+[[11]](#11-paulavičius-r-sergeyev-y-d-kvasov-d-e-and-žilinskas-j-jul-2014-globally-biased-disimpl-algorithm-for-expensive-global-optimization-journal-of-global-optimization-59-2-545567)
+
+[[12]](#12-paulavičius-r-and-žilinskas-j-2014a-simplicial-global-optimization-springer)
+
+[[13]](#13-paulavičius-r-and-žilinskas-j-feb-2016-advantages-of-simplicial-partitioning-for-lipschitz-optimization-problems-with-linear-constraints-optimization-letters-10-2-237246)
+
+[[14]](#14-j-d-pintér-nonlinear-optimization-with-gams-lgo-j-of-global-optimization-38-1-2007-79101)
+
+[[15]](#15-wales-dj-2015-perspective-insight-into-reaction-coordinates-and-dynamics-from-the-potential-energy-landscape--------journal-of-chemical-physics-14213-2015)
+
+[[16]](#16-hoch-w-and-schittkowski-k-1981-test-examples-for-nonlinear-programming-codes-lecture-notes-in-economics-and-mathematical-systems-187-springer-verlag-new-york) 
+
+
+##### 1. [Endres, SC,  Sandrock, C, Focke, WW (2018) A simplicial homology algorithm for lipschitz optimisation, Journal of Global Optimization.](http://dx.doi.org/10.1007/s10898-018-0645-y)
+##### 2. [Endres, SC (2017) "A simplicial homology algorithm for Lipschitz optimisation".](https://github.com/Stefan-Endres/mdissertation/blob/master/dissertation.pdf)
+##### 3. [Sobol, IM (1967) "The distribution of points in a cube and the approximate evaluation of integrals", USSR Comput. Math. Math. Phys. 7, 86-112.](http://www.sciencedirect.com/science/article/pii/0041555367901449)
+##### 4. [Joe, SW and Kuo, FY (2008) "Constructing Sobol sequences with better two-dimensional projections", SIAM J. Sci. Comput. 30, 2635-2654.](http://epubs.siam.org/doi/abs/10.1137/070709359?journalCode=sjoce3)
+##### 5. [Li, Z. and Scheraga, H. A. (1987) “Monte carlo-minimization approach to the multipleminima problem in protein folding”, Proceedings of the National Academy of Sciences, 84 (19), 6611–6615.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC299132/)
+##### 6. [Wales, D. J. and Doye, J. P. (1997) “Global optimization by basin-hopping and the lowest energy structures of lennard-jones clusters containing up to 110 atoms”, The Journal of Physical Chemistry A, 101 (28), 5111–5116.](http://pubs.acs.org/doi/abs/10.1021/jp970984n)
+##### 7. [Storn, R. and Price, K. (1997) “Differential evolution – a simple and efficient heuristic for global optimization over continuous spaces”, Journal of Global Optimization, 11 (4), 341–359](http://dx.doi.org/10.1023/A:1008202821328)
+##### 8. [Rios, L. M. and Sahinidis, N. V. Jul (2013) “Derivative-free optimization: a review of algorithms and comparison of software implementations”, Journal of Global Optimization, 56 (3), 1247–1293.](https://link.springer.com/article/10.1007/s10898-012-9951-y)
+##### 9. [Jones, D. R.; Perttunen, C. D. and Stuckman, B. E. Oct (1993) “Lipschitzian optimization without the lipschitz constant”, Journal of Optimization theory and Applications,79 (1), 157–181.](https://link.springer.com/article/10.1007/BF00941892)
+##### 10. [Paulavičius, R. and Žilinskas, J. May (2014)b “Simplicial lipschitz optimization without the lipschitz constant”, Journal of Global Optimization, 59 (1), 23–40.](https://link.springer.com/article/10.1007/s10898-013-0089-3)
+##### 11. [Paulavičius, R.; Sergeyev, Y. D.; Kvasov, D. E. and Žilinskas, J. Jul (2014) “Globally-biased disimpl algorithm for expensive global optimization”, Journal of Global Optimization, 59 (2), 545–567.](https://link.springer.com/article/10.1007/s10898-014-0180-4)
+##### 12. [Paulavičius, R. and Žilinskas, J. (2014)a Simplicial global optimization, Springer](http://www.springer.com/us/book/9781461490920)
+##### 13. [Paulavičius, R. and Žilinskas, J. Feb (2016) “Advantages of simplicial partitioning for lipschitz optimization problems with linear constraints”, Optimization Letters, 10 (2), 237–246.](https://link.springer.com/article/10.1007/s11590-014-0772-4)
+##### 14. [J. D. Pintér, Nonlinear optimization with gams /lgo, J. of Global Optimization 38 (1) (2007) 79–101.](http://dx.doi.org/10.1007/s10898-006-9084-2)
+##### 15. [Wales, DJ (2015) "Perspective: Insight into reaction coordinates and dynamics from the potential energy landscape",        Journal of Chemical Physics, 142(13), 2015.](http://dx.doi.org/10.1063/1.4916307)
+##### 16. [Hoch, W and Schittkowski, K (1981) "Test examples for nonlinear programming codes", Lecture Notes in Economics and mathematical Systems, 187. Springer-Verlag, New York.](http://www.ai7.uni-bayreuth.de/test_problem_coll.pdf)

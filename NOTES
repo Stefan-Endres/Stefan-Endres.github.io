@@ -1,6 +1,7 @@
 # To start a local server first change the url in line 14 of _config.yml AND _config.dev.yml to 
-
 url                      : http://127.0.0.1:4000 
+
+# this will allow internal relative links to point to he local and not the online server
 
 # Now start the local liveserver with
 
@@ -12,7 +13,6 @@ bundle exec jekyll serve
 
 # REMEMBER TO CHANGE THE URL BACK BEFORE COMMITS:
 url                      : https://stefan-endres.github.io 
-
 
 
 To modify the colours modify the _sass/_variable.scss file
@@ -27,3 +27,8 @@ defaults:
       type: posts
     values:
       layout: single
+
+      
+# How to hyperlink citations in .md files
+Make every entry in the reference list a heading using #### etc.
+Startup server. Inspect the reference. Use the html ID as a link to use in body text [[1]](/page/#[link])

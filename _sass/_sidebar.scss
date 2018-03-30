@@ -38,7 +38,7 @@
             100vh - 90px - 2em
     ); // viewport height - approx. masthead height - main content top margin*/
 
-    height: calc(10vh);
+    height: calc(20vh);
     @include breakpoint($large) {
       height: calc(100vh);
     }

@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* M.Eng. Chemical Engineering, University of Pretoria, 2017 (expected)
+* M.Eng. Chemical Engineering, University of Pretoria, 2017 (*summa cum laude*)
     * Thesis title: "A Simplicial Homology Algorithm for Lipschitz Optimisation".
     * Supervisors:
         * Prof. Walter Focke ([Walter.Focke@up.ac.za](mailto:Walter.Focke@up.ac.za))
