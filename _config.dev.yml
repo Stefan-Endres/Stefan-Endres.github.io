@@ -1,6 +1,7 @@
 # Develop override settings
 
-url: http://localhost:4000
+url                      : https://stefan-endres.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : http://localhost:4000   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 analytics:
   provider: false
