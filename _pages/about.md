@@ -9,18 +9,15 @@ redirect_from:
 mathjax: true
 ---
 
-Homepage for Stefan Endres.
+About me
+-----
 
-Lorem ipsum. #TODO
+I'm a Chemical Engineering postgraduate student currently employed at the University of Pretoria. This website hosts content pertaining to my professional career. At the time of writing it is largely a work in progress.
 
-Link to main projects [shgo project](http://127.0.0.1:4000/shgotest/)
+Projects and research interests
+-----
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+My current research interest is primarily in the field of global optimisation and computational homology. Previous projects and interests include computational thermodynamics research in chemical phase equilibria (mixture models for complex systems). I'm also interested in multi- and bilevel optimisation.
+
+For a list of selected projects past and present refer to my [projects](./projects/) page.
+

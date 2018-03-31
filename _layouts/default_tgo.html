@@ -1,0 +1,52 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+
+    <!-- HEADER -->
+  <div id="header_wrap" class="outer">
+      <header class="inner">
+
+        <h1 id="project_title">{{ "tgo" }}</h1>
+        <h2 id="project_tagline">{{ "Topographical Global Optimisation" }}</h2>
+
+        {% if site.show_downloads %}
+          <section id="downloads">
+            <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+            <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+          </section>
+        {% endif %}
+      </header>
+  </div>
+
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+
+
+    {{ content }}
+
+    </script>
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
