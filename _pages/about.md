@@ -21,3 +21,9 @@ My current research interest is primarily in the field of global optimisation an
 
 For a list of selected projects past and present refer to my [projects](./projects/) page.
 
+
+About this website
+-------------
+
+!! forked from academicpages and using code from other websites all of which are MIT compatible liscenses !!. 
+
