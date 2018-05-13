@@ -25,5 +25,5 @@ For a list of selected projects past and present refer to my [projects](./projec
 About this website
 -------------
 
-!! forked from academicpages and using code from other websites all of which are MIT compatible liscenses !!. 
+This website was forked from academicpages and using code from other websites all of which are MIT compatible liscenses. The colour scheme is based on my Lantian beamer theme [https://github.com/Stefan-Endres/mtheme](https://github.com/Stefan-Endres/mtheme).
 
