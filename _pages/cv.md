@@ -15,8 +15,9 @@ Education
     * Supervisors:
         * Prof. Walter Focke ([Walter.Focke@up.ac.za](mailto:Walter.Focke@up.ac.za))
         * Mr. Carl Sandrock ([Carl.Sandrock@up.ac.za](mailto:Carl.Sandrock@up.ac.za))
-        * External examiner: Prof. John Hedengren (Brigham Young University) ([john hedengren@byu.edu](mailto:john hedengren@byu.edu))
-        * Internal examiner: Prof. Daniel Wilke ([nico.wilke@up.ac.za](mailto:nico.wilke@up.ac.za))
+    
+    * External examiner: Prof. John Hedengren (Brigham Young University) ([john hedengren@byu.edu](mailto:john hedengren@byu.edu))
+    * Internal examiner: Prof. Daniel Wilke ([nico.wilke@up.ac.za](mailto:nico.wilke@up.ac.za))
 
 
 * B.Eng. (Hons) Chemical Engineering, University of Pretoria, 2016
