@@ -17,7 +17,7 @@ I'm a Chemical Engineering postgraduate student currently employed as an assista
 Projects and research interests
 -----
 
-My current research interest is primarily in the field of global optimisation and computational homology. Previous projects and interests include computational thermodynamics research in chemical phase equilibria (mixture models for complex systems). I'm also interested in multi- and bilevel optimisation.
+My current research interest is primarily in the field of global optimisation and computational homology. Other projects and interests include computational thermodynamics research in chemical phase equilibria (mixture models for complex systems). I'm also interested in multi- and bilevel optimisation.
 
 For a list of selected projects past and present refer to my [projects](./projects/) page.
 
