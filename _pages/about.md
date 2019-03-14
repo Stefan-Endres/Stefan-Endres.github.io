@@ -12,7 +12,7 @@ mathjax: true
 About me
 -----
 
-I'm a Chemical Engineering postgraduate student currently employed at the University of Pretoria. This website hosts content pertaining to my professional career. At the time of writing it is largely a work in progress.
+I'm a Chemical Engineering postgraduate student currently employed as an assistant lecturer at the University of Pretoria. This website hosts content pertaining to my professional career. At the time of writing it is largely a work in progress.
 
 Projects and research interests
 -----
