@@ -3,7 +3,7 @@ title: "Journal of Global Optimization: INFORMS Issue Highlights II: Simplicial 
 collection: talks
 type: "Talk"
 permalink: /talks/2018-11-07-conference-1
-venue: "University of Pretoria"
+venue: "Phoenix Convention Center"
 date: 2018-11-07
 location: "Phoenix, Arizona, United States of America"
 ---
